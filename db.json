@@ -1,2527 +1,436 @@
 {
     "countries": [
         {
-            "CountryId": 1533,
-            "Name": "Afghanistan"
-        },
-        {
-            "CountryId": 1534,
+            "CountryId": 2,
             "Name": "Åland Islands"
         },
         {
-            "CountryId": 1535,
-            "Name": "Albania"
-        },
-        {
-            "CountryId": 1536,
-            "Name": "Algeria"
-        },
-        {
-            "CountryId": 1537,
-            "Name": "American Samoa"
-        },
-        {
-            "CountryId": 1538,
+            "CountryId": 6,
             "Name": "Andorra"
         },
         {
-            "CountryId": 1539,
-            "Name": "Angola"
-        },
-        {
-            "CountryId": 1540,
-            "Name": "Anguilla"
-        },
-        {
-            "CountryId": 1541,
-            "Name": "Antarctica"
-        },
-        {
-            "CountryId": 1542,
-            "Name": "Antigua and Barbuda"
-        },
-        {
-            "CountryId": 1543,
-            "Name": "Argentina"
-        },
-        {
-            "CountryId": 1544,
-            "Name": "Armenia"
-        },
-        {
-            "CountryId": 1545,
-            "Name": "Aruba"
-        },
-        {
-            "CountryId": 1546,
-            "Name": "Australia"
-        },
-        {
-            "CountryId": 1547,
+            "CountryId": 15,
             "Name": "Austria"
         },
         {
-            "CountryId": 1548,
-            "Name": "Azerbaijan"
-        },
-        {
-            "CountryId": 1549,
-            "Name": "Bahamas"
-        },
-        {
-            "CountryId": 1550,
-            "Name": "Bahrain"
-        },
-        {
-            "CountryId": 1551,
-            "Name": "Bangladesh"
-        },
-        {
-            "CountryId": 1552,
-            "Name": "Barbados"
-        },
-        {
-            "CountryId": 1553,
-            "Name": "Belarus"
-        },
-        {
-            "CountryId": 1554,
+            "CountryId": 22,
             "Name": "Belgium"
         },
         {
-            "CountryId": 1555,
-            "Name": "Belize"
-        },
-        {
-            "CountryId": 1556,
-            "Name": "Benin"
-        },
-        {
-            "CountryId": 1557,
-            "Name": "Bermuda"
-        },
-        {
-            "CountryId": 1558,
-            "Name": "Bhutan"
-        },
-        {
-            "CountryId": 1559,
-            "Name": "Bolivia (Plurinational State of)"
-        },
-        {
-            "CountryId": 1560,
-            "Name": "Bonaire, Sint Eustatius and Saba"
-        },
-        {
-            "CountryId": 1561,
-            "Name": "Bosnia and Herzegovina"
-        },
-        {
-            "CountryId": 1562,
-            "Name": "Botswana"
-        },
-        {
-            "CountryId": 1563,
-            "Name": "Bouvet Island"
-        },
-        {
-            "CountryId": 1564,
-            "Name": "Brazil"
-        },
-        {
-            "CountryId": 1565,
-            "Name": "British Indian Ocean Territory"
-        },
-        {
-            "CountryId": 1566,
-            "Name": "United States Minor Outlying Islands"
-        },
-        {
-            "CountryId": 1567,
-            "Name": "Virgin Islands (British)"
-        },
-        {
-            "CountryId": 1568,
-            "Name": "Virgin Islands (U.S.)"
-        },
-        {
-            "CountryId": 1569,
-            "Name": "Brunei Darussalam"
-        },
-        {
-            "CountryId": 1570,
-            "Name": "Bulgaria"
-        },
-        {
-            "CountryId": 1571,
-            "Name": "Burkina Faso"
-        },
-        {
-            "CountryId": 1572,
-            "Name": "Burundi"
-        },
-        {
-            "CountryId": 1573,
-            "Name": "Cambodia"
-        },
-        {
-            "CountryId": 1574,
-            "Name": "Cameroon"
-        },
-        {
-            "CountryId": 1575,
-            "Name": "Canada"
-        },
-        {
-            "CountryId": 1576,
-            "Name": "Cabo Verde"
-        },
-        {
-            "CountryId": 1577,
-            "Name": "Cayman Islands"
-        },
-        {
-            "CountryId": 1578,
-            "Name": "Central African Republic"
-        },
-        {
-            "CountryId": 1579,
-            "Name": "Chad"
-        },
-        {
-            "CountryId": 1580,
-            "Name": "Chile"
-        },
-        {
-            "CountryId": 1581,
-            "Name": "China"
-        },
-        {
-            "CountryId": 1582,
-            "Name": "Christmas Island"
-        },
-        {
-            "CountryId": 1583,
-            "Name": "Cocos (Keeling) Islands"
-        },
-        {
-            "CountryId": 1584,
-            "Name": "Colombia"
-        },
-        {
-            "CountryId": 1585,
-            "Name": "Comoros"
-        },
-        {
-            "CountryId": 1586,
-            "Name": "Congo"
-        },
-        {
-            "CountryId": 1587,
-            "Name": "Congo (Democratic Republic of the)"
-        },
-        {
-            "CountryId": 1588,
-            "Name": "Cook Islands"
-        },
-        {
-            "CountryId": 1589,
-            "Name": "Costa Rica"
-        },
-        {
-            "CountryId": 1590,
-            "Name": "Croatia"
-        },
-        {
-            "CountryId": 1591,
-            "Name": "Cuba"
-        },
-        {
-            "CountryId": 1592,
-            "Name": "Curaçao"
-        },
-        {
-            "CountryId": 1593,
+            "CountryId": 61,
             "Name": "Cyprus"
         },
         {
-            "CountryId": 1594,
-            "Name": "Czech Republic"
-        },
-        {
-            "CountryId": 1595,
-            "Name": "Denmark"
-        },
-        {
-            "CountryId": 1596,
-            "Name": "Djibouti"
-        },
-        {
-            "CountryId": 1597,
-            "Name": "Dominica"
-        },
-        {
-            "CountryId": 1598,
-            "Name": "Dominican Republic"
-        },
-        {
-            "CountryId": 1599,
-            "Name": "Ecuador"
-        },
-        {
-            "CountryId": 1600,
-            "Name": "Egypt"
-        },
-        {
-            "CountryId": 1601,
-            "Name": "El Salvador"
-        },
-        {
-            "CountryId": 1602,
-            "Name": "Equatorial Guinea"
-        },
-        {
-            "CountryId": 1603,
-            "Name": "Eritrea"
-        },
-        {
-            "CountryId": 1604,
+            "CountryId": 72,
             "Name": "Estonia"
         },
         {
-            "CountryId": 1605,
-            "Name": "Ethiopia"
-        },
-        {
-            "CountryId": 1606,
-            "Name": "Falkland Islands (Malvinas)"
-        },
-        {
-            "CountryId": 1607,
-            "Name": "Faroe Islands"
-        },
-        {
-            "CountryId": 1608,
-            "Name": "Fiji"
-        },
-        {
-            "CountryId": 1609,
+            "CountryId": 77,
             "Name": "Finland"
         },
         {
-            "CountryId": 1610,
+            "CountryId": 78,
             "Name": "France"
         },
         {
-            "CountryId": 1611,
+            "CountryId": 79,
             "Name": "French Guiana"
         },
         {
-            "CountryId": 1612,
-            "Name": "French Polynesia"
-        },
-        {
-            "CountryId": 1613,
+            "CountryId": 81,
             "Name": "French Southern Territories"
         },
         {
-            "CountryId": 1614,
-            "Name": "Gabon"
-        },
-        {
-            "CountryId": 1615,
-            "Name": "Gambia"
-        },
-        {
-            "CountryId": 1616,
-            "Name": "Georgia"
-        },
-        {
-            "CountryId": 1617,
+            "CountryId": 85,
             "Name": "Germany"
         },
         {
-            "CountryId": 1618,
-            "Name": "Ghana"
-        },
-        {
-            "CountryId": 1619,
-            "Name": "Gibraltar"
-        },
-        {
-            "CountryId": 1620,
+            "CountryId": 88,
             "Name": "Greece"
         },
         {
-            "CountryId": 1621,
-            "Name": "Greenland"
-        },
-        {
-            "CountryId": 1622,
-            "Name": "Grenada"
-        },
-        {
-            "CountryId": 1623,
+            "CountryId": 91,
             "Name": "Guadeloupe"
         },
         {
-            "CountryId": 1624,
-            "Name": "Guam"
-        },
-        {
-            "CountryId": 1625,
-            "Name": "Guatemala"
-        },
-        {
-            "CountryId": 1626,
-            "Name": "Guernsey"
-        },
-        {
-            "CountryId": 1627,
-            "Name": "Guinea"
-        },
-        {
-            "CountryId": 1628,
-            "Name": "Guinea-Bissau"
-        },
-        {
-            "CountryId": 1629,
-            "Name": "Guyana"
-        },
-        {
-            "CountryId": 1630,
-            "Name": "Haiti"
-        },
-        {
-            "CountryId": 1631,
-            "Name": "Heard Island and McDonald Islands"
-        },
-        {
-            "CountryId": 1632,
+            "CountryId": 100,
             "Name": "Vatican City"
         },
         {
-            "CountryId": 1633,
-            "Name": "Honduras"
-        },
-        {
-            "CountryId": 1634,
-            "Name": "Hungary"
-        },
-        {
-            "CountryId": 1635,
-            "Name": "Hong Kong"
-        },
-        {
-            "CountryId": 1636,
-            "Name": "Iceland"
-        },
-        {
-            "CountryId": 1637,
-            "Name": "India"
-        },
-        {
-            "CountryId": 1638,
-            "Name": "Indonesia"
-        },
-        {
-            "CountryId": 1639,
-            "Name": "Ivory Coast"
-        },
-        {
-            "CountryId": 1640,
-            "Name": "Iran (Islamic Republic of)"
-        },
-        {
-            "CountryId": 1641,
-            "Name": "Iraq"
-        },
-        {
-            "CountryId": 1642,
+            "CountryId": 110,
             "Name": "Ireland"
         },
         {
-            "CountryId": 1643,
-            "Name": "Isle of Man"
-        },
-        {
-            "CountryId": 1644,
-            "Name": "Israel"
-        },
-        {
-            "CountryId": 1645,
+            "CountryId": 113,
             "Name": "Italy"
         },
         {
-            "CountryId": 1646,
-            "Name": "Jamaica"
-        },
-        {
-            "CountryId": 1647,
-            "Name": "Japan"
-        },
-        {
-            "CountryId": 1648,
-            "Name": "Jersey"
-        },
-        {
-            "CountryId": 1649,
-            "Name": "Jordan"
-        },
-        {
-            "CountryId": 1650,
-            "Name": "Kazakhstan"
-        },
-        {
-            "CountryId": 1651,
-            "Name": "Kenya"
-        },
-        {
-            "CountryId": 1652,
-            "Name": "Kiribati"
-        },
-        {
-            "CountryId": 1653,
-            "Name": "Kuwait"
-        },
-        {
-            "CountryId": 1654,
-            "Name": "Kyrgyzstan"
-        },
-        {
-            "CountryId": 1655,
-            "Name": "Lao People's Democratic Republic"
-        },
-        {
-            "CountryId": 1656,
+            "CountryId": 124,
             "Name": "Latvia"
         },
         {
-            "CountryId": 1657,
-            "Name": "Lebanon"
-        },
-        {
-            "CountryId": 1658,
-            "Name": "Lesotho"
-        },
-        {
-            "CountryId": 1659,
-            "Name": "Liberia"
-        },
-        {
-            "CountryId": 1660,
-            "Name": "Libya"
-        },
-        {
-            "CountryId": 1661,
-            "Name": "Liechtenstein"
-        },
-        {
-            "CountryId": 1662,
+            "CountryId": 130,
             "Name": "Lithuania"
         },
         {
-            "CountryId": 1663,
+            "CountryId": 131,
             "Name": "Luxembourg"
         },
         {
-            "CountryId": 1664,
-            "Name": "Macao"
-        },
-        {
-            "CountryId": 1665,
-            "Name": "North Macedonia"
-        },
-        {
-            "CountryId": 1666,
-            "Name": "Madagascar"
-        },
-        {
-            "CountryId": 1667,
-            "Name": "Malawi"
-        },
-        {
-            "CountryId": 1668,
-            "Name": "Malaysia"
-        },
-        {
-            "CountryId": 1669,
-            "Name": "Maldives"
-        },
-        {
-            "CountryId": 1670,
-            "Name": "Mali"
-        },
-        {
-            "CountryId": 1671,
+            "CountryId": 139,
             "Name": "Malta"
         },
         {
-            "CountryId": 1672,
-            "Name": "Marshall Islands"
-        },
-        {
-            "CountryId": 1673,
+            "CountryId": 141,
             "Name": "Martinique"
         },
         {
-            "CountryId": 1674,
-            "Name": "Mauritania"
-        },
-        {
-            "CountryId": 1675,
-            "Name": "Mauritius"
-        },
-        {
-            "CountryId": 1676,
+            "CountryId": 144,
             "Name": "Mayotte"
         },
         {
-            "CountryId": 1677,
-            "Name": "Mexico"
-        },
-        {
-            "CountryId": 1678,
-            "Name": "Micronesia (Federated States of)"
-        },
-        {
-            "CountryId": 1679,
-            "Name": "Moldova (Republic of)"
-        },
-        {
-            "CountryId": 1680,
+            "CountryId": 148,
             "Name": "Monaco"
         },
         {
-            "CountryId": 1681,
-            "Name": "Mongolia"
-        },
-        {
-            "CountryId": 1682,
+            "CountryId": 150,
             "Name": "Montenegro"
         },
         {
-            "CountryId": 1683,
-            "Name": "Montserrat"
-        },
-        {
-            "CountryId": 1684,
-            "Name": "Morocco"
-        },
-        {
-            "CountryId": 1685,
-            "Name": "Mozambique"
-        },
-        {
-            "CountryId": 1686,
-            "Name": "Myanmar"
-        },
-        {
-            "CountryId": 1687,
-            "Name": "Namibia"
-        },
-        {
-            "CountryId": 1688,
-            "Name": "Nauru"
-        },
-        {
-            "CountryId": 1689,
-            "Name": "Nepal"
-        },
-        {
-            "CountryId": 1690,
+            "CountryId": 158,
             "Name": "Netherlands"
         },
         {
-            "CountryId": 1691,
-            "Name": "New Caledonia"
-        },
-        {
-            "CountryId": 1692,
-            "Name": "New Zealand"
-        },
-        {
-            "CountryId": 1693,
-            "Name": "Nicaragua"
-        },
-        {
-            "CountryId": 1694,
-            "Name": "Niger"
-        },
-        {
-            "CountryId": 1695,
-            "Name": "Nigeria"
-        },
-        {
-            "CountryId": 1696,
-            "Name": "Niue"
-        },
-        {
-            "CountryId": 1697,
-            "Name": "Norfolk Island"
-        },
-        {
-            "CountryId": 1698,
-            "Name": "Korea (Democratic People's Republic of)"
-        },
-        {
-            "CountryId": 1699,
-            "Name": "Northern Mariana Islands"
-        },
-        {
-            "CountryId": 1700,
-            "Name": "Norway"
-        },
-        {
-            "CountryId": 1701,
-            "Name": "Oman"
-        },
-        {
-            "CountryId": 1702,
-            "Name": "Pakistan"
-        },
-        {
-            "CountryId": 1703,
-            "Name": "Palau"
-        },
-        {
-            "CountryId": 1704,
-            "Name": "Palestine, State of"
-        },
-        {
-            "CountryId": 1705,
-            "Name": "Panama"
-        },
-        {
-            "CountryId": 1706,
-            "Name": "Papua New Guinea"
-        },
-        {
-            "CountryId": 1707,
-            "Name": "Paraguay"
-        },
-        {
-            "CountryId": 1708,
-            "Name": "Peru"
-        },
-        {
-            "CountryId": 1709,
-            "Name": "Philippines"
-        },
-        {
-            "CountryId": 1710,
-            "Name": "Pitcairn"
-        },
-        {
-            "CountryId": 1711,
-            "Name": "Poland"
-        },
-        {
-            "CountryId": 1712,
+            "CountryId": 180,
             "Name": "Portugal"
         },
         {
-            "CountryId": 1713,
-            "Name": "Puerto Rico"
-        },
-        {
-            "CountryId": 1714,
-            "Name": "Qatar"
-        },
-        {
-            "CountryId": 1715,
+            "CountryId": 183,
             "Name": "Republic of Kosovo"
         },
         {
-            "CountryId": 1716,
+            "CountryId": 184,
             "Name": "Réunion"
         },
         {
-            "CountryId": 1717,
-            "Name": "Romania"
-        },
-        {
-            "CountryId": 1718,
-            "Name": "Russian Federation"
-        },
-        {
-            "CountryId": 1719,
-            "Name": "Rwanda"
-        },
-        {
-            "CountryId": 1720,
+            "CountryId": 188,
             "Name": "Saint Barthélemy"
         },
         {
-            "CountryId": 1721,
-            "Name": "Saint Helena, Ascension and Tristan da Cunha"
-        },
-        {
-            "CountryId": 1722,
-            "Name": "Saint Kitts and Nevis"
-        },
-        {
-            "CountryId": 1723,
-            "Name": "Saint Lucia"
-        },
-        {
-            "CountryId": 1724,
+            "CountryId": 192,
             "Name": "Saint Martin (French part)"
         },
         {
-            "CountryId": 1725,
+            "CountryId": 193,
             "Name": "Saint Pierre and Miquelon"
         },
         {
-            "CountryId": 1726,
-            "Name": "Saint Vincent and the Grenadines"
-        },
-        {
-            "CountryId": 1727,
-            "Name": "Samoa"
-        },
-        {
-            "CountryId": 1728,
+            "CountryId": 196,
             "Name": "San Marino"
         },
         {
-            "CountryId": 1729,
-            "Name": "Sao Tome and Principe"
-        },
-        {
-            "CountryId": 1730,
-            "Name": "Saudi Arabia"
-        },
-        {
-            "CountryId": 1731,
-            "Name": "Senegal"
-        },
-        {
-            "CountryId": 1732,
-            "Name": "Serbia"
-        },
-        {
-            "CountryId": 1733,
-            "Name": "Seychelles"
-        },
-        {
-            "CountryId": 1734,
-            "Name": "Sierra Leone"
-        },
-        {
-            "CountryId": 1735,
-            "Name": "Singapore"
-        },
-        {
-            "CountryId": 1736,
-            "Name": "Sint Maarten (Dutch part)"
-        },
-        {
-            "CountryId": 1737,
+            "CountryId": 205,
             "Name": "Slovakia"
         },
         {
-            "CountryId": 1738,
+            "CountryId": 206,
             "Name": "Slovenia"
         },
         {
-            "CountryId": 1739,
-            "Name": "Solomon Islands"
-        },
-        {
-            "CountryId": 1740,
-            "Name": "Somalia"
-        },
-        {
-            "CountryId": 1741,
-            "Name": "South Africa"
-        },
-        {
-            "CountryId": 1742,
-            "Name": "South Georgia and the South Sandwich Islands"
-        },
-        {
-            "CountryId": 1743,
-            "Name": "Korea (Republic of)"
-        },
-        {
-            "CountryId": 1744,
+            "CountryId": 212,
             "Name": "Spain"
         },
         {
-            "CountryId": 1745,
-            "Name": "Sri Lanka"
+            "CountryId": 5,
+            "Name": "American Samoa"
         },
         {
-            "CountryId": 1746,
-            "Name": "Sudan"
+            "CountryId": 28,
+            "Name": "Bonaire, Sint Eustatius and Saba"
         },
         {
-            "CountryId": 1747,
-            "Name": "South Sudan"
+            "CountryId": 33,
+            "Name": "British Indian Ocean Territory"
         },
         {
-            "CountryId": 1748,
-            "Name": "Suriname"
+            "CountryId": 35,
+            "Name": "Virgin Islands (British)"
         },
         {
-            "CountryId": 1749,
-            "Name": "Svalbard and Jan Mayen"
+            "CountryId": 36,
+            "Name": "Virgin Islands (U.S.)"
         },
         {
-            "CountryId": 1750,
-            "Name": "Swaziland"
+            "CountryId": 41,
+            "Name": "Cambodia"
         },
         {
-            "CountryId": 1751,
-            "Name": "Sweden"
+            "CountryId": 67,
+            "Name": "Ecuador"
         },
         {
-            "CountryId": 1752,
-            "Name": "Switzerland"
+            "CountryId": 69,
+            "Name": "El Salvador"
         },
         {
-            "CountryId": 1753,
-            "Name": "Syrian Arab Republic"
+            "CountryId": 92,
+            "Name": "Guam"
         },
         {
-            "CountryId": 1754,
-            "Name": "Taiwan"
+            "CountryId": 140,
+            "Name": "Marshall Islands"
         },
         {
-            "CountryId": 1755,
-            "Name": "Tajikistan"
+            "CountryId": 146,
+            "Name": "Micronesia (Federated States of)"
         },
         {
-            "CountryId": 1756,
-            "Name": "Tanzania, United Republic of"
+            "CountryId": 167,
+            "Name": "Northern Mariana Islands"
         },
         {
-            "CountryId": 1757,
-            "Name": "Thailand"
+            "CountryId": 171,
+            "Name": "Palau"
         },
         {
-            "CountryId": 1758,
-            "Name": "Timor-Leste"
+            "CountryId": 173,
+            "Name": "Panama"
         },
         {
-            "CountryId": 1759,
-            "Name": "Togo"
+            "CountryId": 181,
+            "Name": "Puerto Rico"
         },
         {
-            "CountryId": 1760,
-            "Name": "Tokelau"
-        },
-        {
-            "CountryId": 1761,
-            "Name": "Tonga"
-        },
-        {
-            "CountryId": 1762,
-            "Name": "Trinidad and Tobago"
-        },
-        {
-            "CountryId": 1763,
-            "Name": "Tunisia"
-        },
-        {
-            "CountryId": 1764,
-            "Name": "Turkey"
-        },
-        {
-            "CountryId": 1765,
-            "Name": "Turkmenistan"
-        },
-        {
-            "CountryId": 1766,
+            "CountryId": 234,
             "Name": "Turks and Caicos Islands"
         },
         {
-            "CountryId": 1767,
-            "Name": "Tuvalu"
-        },
-        {
-            "CountryId": 1768,
-            "Name": "Uganda"
-        },
-        {
-            "CountryId": 1769,
-            "Name": "Ukraine"
-        },
-        {
-            "CountryId": 1770,
-            "Name": "United Arab Emirates"
-        },
-        {
-            "CountryId": 1771,
-            "Name": "United Kingdom of Great Britain and Northern Ireland"
-        },
-        {
-            "CountryId": 1772,
-            "Name": "United States of America",
-            "ApiName": "USA"
-        },
-        {
-            "CountryId": 1773,
-            "Name": "Uruguay"
-        },
-        {
-            "CountryId": 1774,
-            "Name": "Uzbekistan"
-        },
-        {
-            "CountryId": 1775,
-            "Name": "Vanuatu"
-        },
-        {
-            "CountryId": 1776,
-            "Name": "Venezuela (Bolivarian Republic of)"
-        },
-        {
-            "CountryId": 1777,
-            "Name": "Vietnam"
-        },
-        {
-            "CountryId": 1778,
-            "Name": "Wallis and Futuna"
-        },
-        {
-            "CountryId": 1779,
-            "Name": "Western Sahara"
-        },
-        {
-            "CountryId": 1780,
-            "Name": "Yemen"
-        },
-        {
-            "CountryId": 1781,
-            "Name": "Zambia"
-        },
-        {
-            "CountryId": 1782,
-            "Name": "Zimbabwe"
+            "CountryId": 240,
+            "Name": "United States of America"
         }
     ],
     "countrycurrencies": [
         {
-            "CountryId": 1533,
-            "CurrencyId": 1194
+            "CountriesCountryId": 2,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1544,
-            "CurrencyId": 1194
+            "CountriesCountryId": 6,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1548,
-            "CurrencyId": 1194
+            "CountriesCountryId": 15,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1558,
-            "CurrencyId": 1194
+            "CountriesCountryId": 22,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1573,
-            "CurrencyId": 1194
+            "CountriesCountryId": 61,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1618,
-            "CurrencyId": 1194
+            "CountriesCountryId": 72,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1637,
-            "CurrencyId": 1194
+            "CountriesCountryId": 77,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1640,
-            "CurrencyId": 1194
+            "CountriesCountryId": 78,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1650,
-            "CurrencyId": 1194
+            "CountriesCountryId": 79,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1655,
-            "CurrencyId": 1194
+            "CountriesCountryId": 81,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1681,
-            "CurrencyId": 1194
+            "CountriesCountryId": 85,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1707,
-            "CurrencyId": 1194
+            "CountriesCountryId": 88,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1709,
-            "CurrencyId": 1194
+            "CountriesCountryId": 91,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1718,
-            "CurrencyId": 1194
+            "CountriesCountryId": 100,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1764,
-            "CurrencyId": 1194
+            "CountriesCountryId": 110,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1769,
-            "CurrencyId": 1194
+            "CountriesCountryId": 113,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1780,
-            "CurrencyId": 1194
+            "CountriesCountryId": 124,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1534,
-            "CurrencyId": 1195
+            "CountriesCountryId": 130,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1538,
-            "CurrencyId": 1195
+            "CountriesCountryId": 131,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1547,
-            "CurrencyId": 1195
+            "CountriesCountryId": 139,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1554,
-            "CurrencyId": 1195
+            "CountriesCountryId": 141,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1593,
-            "CurrencyId": 1195
+            "CountriesCountryId": 144,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1604,
-            "CurrencyId": 1195
+            "CountriesCountryId": 148,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1609,
-            "CurrencyId": 1195
+            "CountriesCountryId": 150,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1610,
-            "CurrencyId": 1195
+            "CountriesCountryId": 158,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1611,
-            "CurrencyId": 1195
+            "CountriesCountryId": 180,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1613,
-            "CurrencyId": 1195
+            "CountriesCountryId": 183,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1617,
-            "CurrencyId": 1195
+            "CountriesCountryId": 184,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1620,
-            "CurrencyId": 1195
+            "CountriesCountryId": 188,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1623,
-            "CurrencyId": 1195
+            "CountriesCountryId": 192,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1632,
-            "CurrencyId": 1195
+            "CountriesCountryId": 193,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1642,
-            "CurrencyId": 1195
+            "CountriesCountryId": 196,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1645,
-            "CurrencyId": 1195
+            "CountriesCountryId": 205,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1656,
-            "CurrencyId": 1195
+            "CountriesCountryId": 206,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1662,
-            "CurrencyId": 1195
+            "CountriesCountryId": 212,
+            "CurrenciesCurrencyId": 2
         },
         {
-            "CountryId": 1663,
-            "CurrencyId": 1195
+            "CountriesCountryId": 5,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1671,
-            "CurrencyId": 1195
+            "CountriesCountryId": 28,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1673,
-            "CurrencyId": 1195
+            "CountriesCountryId": 33,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1676,
-            "CurrencyId": 1195
+            "CountriesCountryId": 35,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1680,
-            "CurrencyId": 1195
+            "CountriesCountryId": 36,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1682,
-            "CurrencyId": 1195
+            "CountriesCountryId": 41,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1690,
-            "CurrencyId": 1195
+            "CountriesCountryId": 67,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1712,
-            "CurrencyId": 1195
+            "CountriesCountryId": 69,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1715,
-            "CurrencyId": 1195
+            "CountriesCountryId": 92,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1716,
-            "CurrencyId": 1195
+            "CountriesCountryId": 140,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1720,
-            "CurrencyId": 1195
+            "CountriesCountryId": 146,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1724,
-            "CurrencyId": 1195
+            "CountriesCountryId": 167,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1725,
-            "CurrencyId": 1195
+            "CountriesCountryId": 171,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1728,
-            "CurrencyId": 1195
+            "CountriesCountryId": 173,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1737,
-            "CurrencyId": 1195
+            "CountriesCountryId": 181,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1738,
-            "CurrencyId": 1195
+            "CountriesCountryId": 234,
+            "CurrenciesCurrencyId": 5
         },
         {
-            "CountryId": 1744,
-            "CurrencyId": 1195
-        },
-        {
-            "CountryId": 1535,
-            "CurrencyId": 1196
-        },
-        {
-            "CountryId": 1633,
-            "CurrencyId": 1196
-        },
-        {
-            "CountryId": 1658,
-            "CurrencyId": 1196
-        },
-        {
-            "CountryId": 1679,
-            "CurrencyId": 1196
-        },
-        {
-            "CountryId": 1750,
-            "CurrencyId": 1196
-        },
-        {
-            "CountryId": 1536,
-            "CurrencyId": 1197
-        },
-        {
-            "CountryId": 1779,
-            "CurrencyId": 1197
-        },
-        {
-            "CountryId": 1537,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1540,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1542,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1543,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1546,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1549,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1552,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1555,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1557,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1560,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1565,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1567,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1568,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1569,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1573,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1575,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1577,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1580,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1582,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1583,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1584,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1588,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1591,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1597,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1598,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1599,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1601,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1608,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1622,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1624,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1629,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1631,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1635,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1646,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1652,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1659,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1672,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1677,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1678,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1683,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1687,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1688,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1692,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1696,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1697,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1699,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1703,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1705,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1710,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1713,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1722,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1723,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1726,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1735,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1739,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1748,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1754,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1760,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1762,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1766,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1767,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1772,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1773,
-            "CurrencyId": 1198
-        },
-        {
-            "CountryId": 1539,
-            "CurrencyId": 1199
-        },
-        {
-            "CountryId": 1545,
-            "CurrencyId": 1200
-        },
-        {
-            "CountryId": 1592,
-            "CurrencyId": 1200
-        },
-        {
-            "CountryId": 1736,
-            "CurrencyId": 1200
-        },
-        {
-            "CountryId": 1550,
-            "CurrencyId": 1201
-        },
-        {
-            "CountryId": 1551,
-            "CurrencyId": 1202
-        },
-        {
-            "CountryId": 1553,
-            "CurrencyId": 1203
-        },
-        {
-            "CountryId": 1605,
-            "CurrencyId": 1203
-        },
-        {
-            "CountryId": 1556,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1571,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1572,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1574,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1578,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1579,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1585,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1586,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1587,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1596,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1602,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1612,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1614,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1627,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1628,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1639,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1661,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1670,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1691,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1694,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1719,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1731,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1752,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1759,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1778,
-            "CurrencyId": 1204
-        },
-        {
-            "CountryId": 1558,
-            "CurrencyId": 1205
-        },
-        {
-            "CountryId": 1559,
-            "CurrencyId": 1206
-        },
-        {
-            "CountryId": 1561,
-            "CurrencyId": 1207
-        },
-        {
-            "CountryId": 1562,
-            "CurrencyId": 1208
-        },
-        {
-            "CountryId": 1664,
-            "CurrencyId": 1208
-        },
-        {
-            "CountryId": 1563,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1595,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1607,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1621,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1636,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1700,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1749,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1751,
-            "CurrencyId": 1209
-        },
-        {
-            "CountryId": 1564,
-            "CurrencyId": 1210
-        },
-        {
-            "CountryId": 1566,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1600,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1606,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1619,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1626,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1643,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1648,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1721,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1742,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1747,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1753,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1771,
-            "CurrencyId": 1211
-        },
-        {
-            "CountryId": 1570,
-            "CurrencyId": 1212
-        },
-        {
-            "CountryId": 1576,
-            "CurrencyId": 1213
-        },
-        {
-            "CountryId": 1581,
-            "CurrencyId": 1214
-        },
-        {
-            "CountryId": 1647,
-            "CurrencyId": 1214
-        },
-        {
-            "CountryId": 1589,
-            "CurrencyId": 1215
-        },
-        {
-            "CountryId": 1590,
-            "CurrencyId": 1216
-        },
-        {
-            "CountryId": 1594,
-            "CurrencyId": 1217
-        },
-        {
-            "CountryId": 1603,
-            "CurrencyId": 1218
-        },
-        {
-            "CountryId": 1615,
-            "CurrencyId": 1219
-        },
-        {
-            "CountryId": 1616,
-            "CurrencyId": 1220
-        },
-        {
-            "CountryId": 1625,
-            "CurrencyId": 1221
-        },
-        {
-            "CountryId": 1630,
-            "CurrencyId": 1222
-        },
-        {
-            "CountryId": 1634,
-            "CurrencyId": 1223
-        },
-        {
-            "CountryId": 1638,
-            "CurrencyId": 1224
-        },
-        {
-            "CountryId": 1641,
-            "CurrencyId": 1225
-        },
-        {
-            "CountryId": 1644,
-            "CurrencyId": 1226
-        },
-        {
-            "CountryId": 1704,
-            "CurrencyId": 1226
-        },
-        {
-            "CountryId": 1649,
-            "CurrencyId": 1227
-        },
-        {
-            "CountryId": 1651,
-            "CurrencyId": 1228
-        },
-        {
-            "CountryId": 1740,
-            "CurrencyId": 1228
-        },
-        {
-            "CountryId": 1756,
-            "CurrencyId": 1228
-        },
-        {
-            "CountryId": 1768,
-            "CurrencyId": 1228
-        },
-        {
-            "CountryId": 1653,
-            "CurrencyId": 1229
-        },
-        {
-            "CountryId": 1654,
-            "CurrencyId": 1230
-        },
-        {
-            "CountryId": 1657,
-            "CurrencyId": 1231
-        },
-        {
-            "CountryId": 1658,
-            "CurrencyId": 1232
-        },
-        {
-            "CountryId": 1687,
-            "CurrencyId": 1232
-        },
-        {
-            "CountryId": 1741,
-            "CurrencyId": 1232
-        },
-        {
-            "CountryId": 1660,
-            "CurrencyId": 1233
-        },
-        {
-            "CountryId": 1665,
-            "CurrencyId": 1234
-        },
-        {
-            "CountryId": 1666,
-            "CurrencyId": 1235
-        },
-        {
-            "CountryId": 1667,
-            "CurrencyId": 1236
-        },
-        {
-            "CountryId": 1668,
-            "CurrencyId": 1237
-        },
-        {
-            "CountryId": 1669,
-            "CurrencyId": 1238
-        },
-        {
-            "CountryId": 1674,
-            "CurrencyId": 1239
-        },
-        {
-            "CountryId": 1675,
-            "CurrencyId": 1240
-        },
-        {
-            "CountryId": 1689,
-            "CurrencyId": 1240
-        },
-        {
-            "CountryId": 1702,
-            "CurrencyId": 1240
-        },
-        {
-            "CountryId": 1733,
-            "CurrencyId": 1240
-        },
-        {
-            "CountryId": 1684,
-            "CurrencyId": 1241
-        },
-        {
-            "CountryId": 1779,
-            "CurrencyId": 1241
-        },
-        {
-            "CountryId": 1685,
-            "CurrencyId": 1242
-        },
-        {
-            "CountryId": 1686,
-            "CurrencyId": 1243
-        },
-        {
-            "CountryId": 1693,
-            "CurrencyId": 1244
-        },
-        {
-            "CountryId": 1695,
-            "CurrencyId": 1245
-        },
-        {
-            "CountryId": 1698,
-            "CurrencyId": 1246
-        },
-        {
-            "CountryId": 1743,
-            "CurrencyId": 1246
-        },
-        {
-            "CountryId": 1701,
-            "CurrencyId": 1247
-        },
-        {
-            "CountryId": 1704,
-            "CurrencyId": 1248
-        },
-        {
-            "CountryId": 1704,
-            "CurrencyId": 1249
-        },
-        {
-            "CountryId": 1705,
-            "CurrencyId": 1250
-        },
-        {
-            "CountryId": 1706,
-            "CurrencyId": 1251
-        },
-        {
-            "CountryId": 1782,
-            "CurrencyId": 1251
-        },
-        {
-            "CountryId": 1708,
-            "CurrencyId": 1252
-        },
-        {
-            "CountryId": 1711,
-            "CurrencyId": 1253
-        },
-        {
-            "CountryId": 1714,
-            "CurrencyId": 1254
-        },
-        {
-            "CountryId": 1717,
-            "CurrencyId": 1255
-        },
-        {
-            "CountryId": 1727,
-            "CurrencyId": 1256
-        },
-        {
-            "CountryId": 1729,
-            "CurrencyId": 1257
-        },
-        {
-            "CountryId": 1730,
-            "CurrencyId": 1258
-        },
-        {
-            "CountryId": 1732,
-            "CurrencyId": 1259
-        },
-        {
-            "CountryId": 1734,
-            "CurrencyId": 1260
-        },
-        {
-            "CountryId": 1745,
-            "CurrencyId": 1261
-        },
-        {
-            "CountryId": 1746,
-            "CurrencyId": 1262
-        },
-        {
-            "CountryId": 1755,
-            "CurrencyId": 1263
-        },
-        {
-            "CountryId": 1757,
-            "CurrencyId": 1264
-        },
-        {
-            "CountryId": 1758,
-            "CurrencyId": 1264
-        },
-        {
-            "CountryId": 1761,
-            "CurrencyId": 1265
-        },
-        {
-            "CountryId": 1763,
-            "CurrencyId": 1266
-        },
-        {
-            "CountryId": 1765,
-            "CurrencyId": 1267
-        },
-        {
-            "CountryId": 1770,
-            "CurrencyId": 1268
-        },
-        {
-            "CountryId": 1774,
-            "CurrencyId": 1269
-        },
-        {
-            "CountryId": 1775,
-            "CurrencyId": 1270
-        },
-        {
-            "CountryId": 1776,
-            "CurrencyId": 1271
-        },
-        {
-            "CountryId": 1777,
-            "CurrencyId": 1272
-        },
-        {
-            "CountryId": 1781,
-            "CurrencyId": 1273
+            "CountriesCountryId": 240,
+            "CurrenciesCurrencyId": 5
         }
     ],
     "currencies": [
         {
-            "CurrencyId": 1194,
-            "Code": "Afghan afghani",
-            "Name": "AFN",
-            "Symbol": "؋"
-        },
-        {
-            "CurrencyId": 1195,
+            "CurrencyId": 2,
             "Code": "Euro",
             "Name": "EUR",
             "Symbol": "€"
         },
         {
-            "CurrencyId": 1196,
-            "Code": "Albanian lek",
-            "Name": "ALL",
-            "Symbol": "L"
-        },
-        {
-            "CurrencyId": 1197,
-            "Code": "Algerian dinar",
-            "Name": "DZD",
-            "Symbol": "د.ج"
-        },
-        {
-            "CurrencyId": 1198,
+            "CurrencyId": 5,
             "Code": "United States Dollar",
             "Name": "USD",
             "Symbol": "$"
-        },
-        {
-            "CurrencyId": 1199,
-            "Code": "Angolan kwanza",
-            "Name": "AOA",
-            "Symbol": "Kz"
-        },
-        {
-            "CurrencyId": 1200,
-            "Code": "Aruban florin",
-            "Name": "AWG",
-            "Symbol": "ƒ"
-        },
-        {
-            "CurrencyId": 1201,
-            "Code": "Bahraini dinar",
-            "Name": "BHD",
-            "Symbol": ".د.ب"
-        },
-        {
-            "CurrencyId": 1202,
-            "Code": "Bangladeshi taka",
-            "Name": "BDT",
-            "Symbol": "৳"
-        },
-        {
-            "CurrencyId": 1203,
-            "Code": "New Belarusian ruble",
-            "Name": "BYN",
-            "Symbol": "Br"
-        },
-        {
-            "CurrencyId": 1204,
-            "Code": "West African CFA franc",
-            "Name": "XOF",
-            "Symbol": "Fr"
-        },
-        {
-            "CurrencyId": 1205,
-            "Code": "Bhutanese ngultrum",
-            "Name": "BTN",
-            "Symbol": "Nu."
-        },
-        {
-            "CurrencyId": 1206,
-            "Code": "Bolivian boliviano",
-            "Name": "BOB",
-            "Symbol": "Bs."
-        },
-        {
-            "CurrencyId": 1207,
-            "Code": "Bosnia and Herzegovina convertible mark",
-            "Name": "BAM",
-            "Symbol": "KM"
-        },
-        {
-            "CurrencyId": 1208,
-            "Code": "Botswana pula",
-            "Name": "BWP",
-            "Symbol": "P"
-        },
-        {
-            "CurrencyId": 1209,
-            "Code": "Norwegian krone",
-            "Name": "NOK",
-            "Symbol": "kr"
-        },
-        {
-            "CurrencyId": 1210,
-            "Code": "Brazilian real",
-            "Name": "BRL",
-            "Symbol": "R$"
-        },
-        {
-            "CurrencyId": 1211,
-            "Code": "British pound",
-            "Name": "GBP",
-            "Symbol": "£"
-        },
-        {
-            "CurrencyId": 1212,
-            "Code": "Bulgarian lev",
-            "Name": "BGN",
-            "Symbol": "лв"
-        },
-        {
-            "CurrencyId": 1213,
-            "Code": "Cape Verdean escudo",
-            "Name": "CVE",
-            "Symbol": "Esc"
-        },
-        {
-            "CurrencyId": 1214,
-            "Code": "Chinese yuan",
-            "Name": "CNY",
-            "Symbol": "¥"
-        },
-        {
-            "CurrencyId": 1215,
-            "Code": "Costa Rican colón",
-            "Name": "CRC",
-            "Symbol": "₡"
-        },
-        {
-            "CurrencyId": 1216,
-            "Code": "Croatian kuna",
-            "Name": "HRK",
-            "Symbol": "kn"
-        },
-        {
-            "CurrencyId": 1217,
-            "Code": "Czech koruna",
-            "Name": "CZK",
-            "Symbol": "Kč"
-        },
-        {
-            "CurrencyId": 1218,
-            "Code": "Eritrean nakfa",
-            "Name": "ERN",
-            "Symbol": "Nfk"
-        },
-        {
-            "CurrencyId": 1219,
-            "Code": "Gambian dalasi",
-            "Name": "GMD",
-            "Symbol": "D"
-        },
-        {
-            "CurrencyId": 1220,
-            "Code": "Georgian Lari",
-            "Name": "GEL",
-            "Symbol": "ლ"
-        },
-        {
-            "CurrencyId": 1221,
-            "Code": "Guatemalan quetzal",
-            "Name": "GTQ",
-            "Symbol": "Q"
-        },
-        {
-            "CurrencyId": 1222,
-            "Code": "Haitian gourde",
-            "Name": "HTG",
-            "Symbol": "G"
-        },
-        {
-            "CurrencyId": 1223,
-            "Code": "Hungarian forint",
-            "Name": "HUF",
-            "Symbol": "Ft"
-        },
-        {
-            "CurrencyId": 1224,
-            "Code": "Indonesian rupiah",
-            "Name": "IDR",
-            "Symbol": "Rp"
-        },
-        {
-            "CurrencyId": 1225,
-            "Code": "Iraqi dinar",
-            "Name": "IQD",
-            "Symbol": "ع.د"
-        },
-        {
-            "CurrencyId": 1226,
-            "Code": "Israeli new shekel",
-            "Name": "ILS",
-            "Symbol": "₪"
-        },
-        {
-            "CurrencyId": 1227,
-            "Code": "Jordanian dinar",
-            "Name": "JOD",
-            "Symbol": "د.ا"
-        },
-        {
-            "CurrencyId": 1228,
-            "Code": "Kenyan shilling",
-            "Name": "KES",
-            "Symbol": "Sh"
-        },
-        {
-            "CurrencyId": 1229,
-            "Code": "Kuwaiti dinar",
-            "Name": "KWD",
-            "Symbol": "د.ك"
-        },
-        {
-            "CurrencyId": 1230,
-            "Code": "Kyrgyzstani som",
-            "Name": "KGS",
-            "Symbol": "с"
-        },
-        {
-            "CurrencyId": 1231,
-            "Code": "Lebanese pound",
-            "Name": "LBP",
-            "Symbol": "ل.ل"
-        },
-        {
-            "CurrencyId": 1232,
-            "Code": "South African rand",
-            "Name": "ZAR",
-            "Symbol": "R"
-        },
-        {
-            "CurrencyId": 1233,
-            "Code": "Libyan dinar",
-            "Name": "LYD",
-            "Symbol": "ل.د"
-        },
-        {
-            "CurrencyId": 1234,
-            "Code": "Macedonian denar",
-            "Name": "MKD",
-            "Symbol": "ден"
-        },
-        {
-            "CurrencyId": 1235,
-            "Code": "Malagasy ariary",
-            "Name": "MGA",
-            "Symbol": "Ar"
-        },
-        {
-            "CurrencyId": 1236,
-            "Code": "Malawian kwacha",
-            "Name": "MWK",
-            "Symbol": "MK"
-        },
-        {
-            "CurrencyId": 1237,
-            "Code": "Malaysian ringgit",
-            "Name": "MYR",
-            "Symbol": "RM"
-        },
-        {
-            "CurrencyId": 1238,
-            "Code": "Maldivian rufiyaa",
-            "Name": "MVR",
-            "Symbol": ".ރ"
-        },
-        {
-            "CurrencyId": 1239,
-            "Code": "Mauritanian ouguiya",
-            "Name": "MRO",
-            "Symbol": "UM"
-        },
-        {
-            "CurrencyId": 1240,
-            "Code": "Mauritian rupee",
-            "Name": "MUR",
-            "Symbol": "₨"
-        },
-        {
-            "CurrencyId": 1241,
-            "Code": "Moroccan dirham",
-            "Name": "MAD",
-            "Symbol": "د.م."
-        },
-        {
-            "CurrencyId": 1242,
-            "Code": "Mozambican metical",
-            "Name": "MZN",
-            "Symbol": "MT"
-        },
-        {
-            "CurrencyId": 1243,
-            "Code": "Burmese kyat",
-            "Name": "MMK",
-            "Symbol": "Ks"
-        },
-        {
-            "CurrencyId": 1244,
-            "Code": "Nicaraguan córdoba",
-            "Name": "NIO",
-            "Symbol": "C$"
-        },
-        {
-            "CurrencyId": 1245,
-            "Code": "Nigerian naira",
-            "Name": "NGN",
-            "Symbol": "₦"
-        },
-        {
-            "CurrencyId": 1246,
-            "Code": "North Korean won",
-            "Name": "KPW",
-            "Symbol": "₩"
-        },
-        {
-            "CurrencyId": 1247,
-            "Code": "Omani rial",
-            "Name": "OMR",
-            "Symbol": "ر.ع."
-        },
-        {
-            "CurrencyId": 1248,
-            "Code": "Egyptian pound",
-            "Name": "EGP",
-            "Symbol": "E£"
-        },
-        {
-            "CurrencyId": 1249,
-            "Code": "Jordanian dinar",
-            "Name": "JOD",
-            "Symbol": "د.أ"
-        },
-        {
-            "CurrencyId": 1250,
-            "Code": "Panamanian balboa",
-            "Name": "PAB",
-            "Symbol": "B\/."
-        },
-        {
-            "CurrencyId": 1251,
-            "Code": "Papua New Guinean kina",
-            "Name": "PGK",
-            "Symbol": "K"
-        },
-        {
-            "CurrencyId": 1252,
-            "Code": "Peruvian sol",
-            "Name": "PEN",
-            "Symbol": "S\/."
-        },
-        {
-            "CurrencyId": 1253,
-            "Code": "Polish złoty",
-            "Name": "PLN",
-            "Symbol": "zł"
-        },
-        {
-            "CurrencyId": 1254,
-            "Code": "Qatari riyal",
-            "Name": "QAR",
-            "Symbol": "ر.ق"
-        },
-        {
-            "CurrencyId": 1255,
-            "Code": "Romanian leu",
-            "Name": "RON",
-            "Symbol": "lei"
-        },
-        {
-            "CurrencyId": 1256,
-            "Code": "Samoan tālā",
-            "Name": "WST",
-            "Symbol": "T"
-        },
-        {
-            "CurrencyId": 1257,
-            "Code": "São Tomé and Príncipe dobra",
-            "Name": "STD",
-            "Symbol": "Db"
-        },
-        {
-            "CurrencyId": 1258,
-            "Code": "Saudi riyal",
-            "Name": "SAR",
-            "Symbol": "ر.س"
-        },
-        {
-            "CurrencyId": 1259,
-            "Code": "Serbian dinar",
-            "Name": "RSD",
-            "Symbol": "дин."
-        },
-        {
-            "CurrencyId": 1260,
-            "Code": "Sierra Leonean leone",
-            "Name": "SLL",
-            "Symbol": "Le"
-        },
-        {
-            "CurrencyId": 1261,
-            "Code": "Sri Lankan rupee",
-            "Name": "LKR",
-            "Symbol": "Rs"
-        },
-        {
-            "CurrencyId": 1262,
-            "Code": "Sudanese pound",
-            "Name": "SDG",
-            "Symbol": "ج.س."
-        },
-        {
-            "CurrencyId": 1263,
-            "Code": "Tajikistani somoni",
-            "Name": "TJS",
-            "Symbol": "ЅМ"
-        },
-        {
-            "CurrencyId": 1264,
-            "Code": "Thai baht",
-            "Name": "THB",
-            "Symbol": "฿"
-        },
-        {
-            "CurrencyId": 1265,
-            "Code": "Tongan paʻanga",
-            "Name": "TOP",
-            "Symbol": "T$"
-        },
-        {
-            "CurrencyId": 1266,
-            "Code": "Tunisian dinar",
-            "Name": "TND",
-            "Symbol": "د.ت"
-        },
-        {
-            "CurrencyId": 1267,
-            "Code": "Turkmenistan manat",
-            "Name": "TMT",
-            "Symbol": "m"
-        },
-        {
-            "CurrencyId": 1268,
-            "Code": "United Arab Emirates dirham",
-            "Name": "AED",
-            "Symbol": "د.إ"
-        },
-        {
-            "CurrencyId": 1269,
-            "Code": "Uzbekistani so'm",
-            "Name": "UZS",
-            "Symbol": "so'm"
-        },
-        {
-            "CurrencyId": 1270,
-            "Code": "Vanuatu vatu",
-            "Name": "VUV",
-            "Symbol": "Vt"
-        },
-        {
-            "CurrencyId": 1271,
-            "Code": "Venezuelan bolívar",
-            "Name": "VEF",
-            "Symbol": "Bs S"
-        },
-        {
-            "CurrencyId": 1272,
-            "Code": "Vietnamese đồng",
-            "Name": "VND",
-            "Symbol": "₫"
-        },
-        {
-            "CurrencyId": 1273,
-            "Code": "Zambian kwacha",
-            "Name": "ZMW",
-            "Symbol": "ZK"
-        }
-    ],
-    "markets": [
-        {
-            "MarketId": 1,
-            "Name": "NASDAQ",
-            "Description": "",
-            "CountryId": 1772,
-            "TimeZone": 0,
-            "CurrencyId": 1198
         }
     ],
     "stocks": [
